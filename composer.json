@@ -1,5 +1,5 @@
 {
-    "name": "Aurelienazerty/Piwik",
+    "name": "aurelienazerty/piwik",
     "type": "phpbb-extension",
     "description": "An extension that allows administrators to easily add their piwik tracking code to their phpBB forum.",
     "homepage": "http://www.team-azerty.com",
@@ -9,7 +9,7 @@
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Aurelienazerty",
+            "name": "aurelienazerty",
             "homepage": "http://www.team-azerty.com",
             "role": "Developer"
         }
